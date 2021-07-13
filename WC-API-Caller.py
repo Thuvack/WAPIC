@@ -1,6 +1,11 @@
-# Wiki Contributions fetching script
-# This script fetches Wiki Contributions from the xtools user API,
-# and returns The output pandas dataframe is then exported in csv format.
+#########################################################################################################################
+#                                                                                                                       #
+#       Wiki Contributions fetching script                                                                              #
+#       This script fetches Wiki Contributions from the xtools user API,                                                #
+#       and returns The output pandas dataframe is then exported in csv format.                                         #
+#                                                                                                                       #
+#########################################################################################################################
+
 
 # Import necessary libraries
 import json
